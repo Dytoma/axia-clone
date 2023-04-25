@@ -7,7 +7,7 @@
                 <img src="../assets/asset-2.svg" alt="Decoration" aria-hidden="true" class="w-[230px] h-[86px] md:w-auto md:h-auto asset-animate" >
             </div>
         </div>
-        <div class="lg:mx-[270px] md:mx-16 px-5 flex flex-col md:flex-row md:flex-wrap md:justify-between gap-24 md:gap-x-16 lg:gap-x-20 lg:px-[3.625rem] md:gap-y-32 items-center lg:justify-center">
+        <div class="lg:mx-[270px] md:mx-16 mx-5 flex flex-col md:flex-row md:flex-wrap md:justify-between gap-24 md:gap-x-16 lg:gap-x-20 lg:px-[3.625rem] md:gap-y-32 items-center lg:justify-center">
             <School school="Schools of Product" description="We offer you Product courses such as Product Design,Product management and Product marketing by equipping you with the right trainings and guidelines. Become a world class personnel and job-ready candidate in the product field." />
             <School school="Schools of Systems Engineering" description="Begin your learning process in Front-End Web Development, Back-End Web Development and more. Discover career opportunities available for you. Speak to professionals and read through materials and the programme designed specifically for you." />
             <School school="Schools of Data" description="Even as a newbie in the data analysis space, you can jumpstart your journey and hone your skills by kicking it off with the Axia Africa School of Data Analysis." />
